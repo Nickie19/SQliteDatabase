@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQliteDatabase</string>
+    <string name="username">Username</string>
+    <string name="age">Age</string>
+    <string name="regno">RegNO</string>
+    <string name="studentname">StudentName</string>
+    <string name="department">Department</string>
+</resources>
